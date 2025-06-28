@@ -1,0 +1,18 @@
+[Script Begins]
+
+S – Situation:
+Hi, I’m [Your Name], and I recently completed a Menternship focused on solving real-world traffic congestion challenges in urban areas.
+
+T – Task:
+My goal was to analyze traffic data to identify peak congestion hours and provide actionable insights for better traffic management.
+
+A – Action:
+I cleaned and merged complex datasets, engineered meaningful features, and used machine learning models like Random Forest and ARIMA for time-series forecasting. I also performed cross-validation, error analysis, and hyperparameter tuning to refine model performance.
+
+R – Result:
+The final output was a comprehensive report with interactive visualizations and data-driven recommendations, demonstrating significant improvement in prediction accuracy and actionable strategies to reduce congestion during peak hours.
+
+This Menternship not only enhanced my technical skills but also gave me real-world experience in turning data into impact.
+
+[Script Ends]
+
